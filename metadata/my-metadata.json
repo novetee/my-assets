@@ -1,5 +1,4 @@
 {
-    "fruit": "Apple",
-    "size": "Large",
-    "color": "Green"
+    "xsdName" : "shipping.xml",
+    "scriptName" : "sample.js"
 }
